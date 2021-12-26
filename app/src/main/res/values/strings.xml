@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Coverter  Radio Button</string>
+    <string name="title">Currency Coverter</string>
+    <string name="edittexthint">please enter any number</string>
+    <string name="radiobtn1text">BDT to USD</string>
+    <string name="radiobtn2text">USD to BDT</string>
+    <string name="radiobtn3text">BDT to EURO</string>
+    <string name="buttontext">submit</string>
+    <string name="outputtext">Output</string>
+
+</resources>
